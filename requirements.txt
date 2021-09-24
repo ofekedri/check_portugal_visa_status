@@ -1,0 +1,4 @@
+selenium
+Flask
+gunicorn
+chromedriver-binary==94.0.4606.41.0
