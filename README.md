@@ -25,6 +25,7 @@ docker run \
 -e sender_email="${sender_email}" \
 -e receiver_email="${receiver_email}" \
 -e password="${password}" \
+-e passport_request_id="${passport_request_id}" \
 --rm check_portugal_visa_status
 
 
